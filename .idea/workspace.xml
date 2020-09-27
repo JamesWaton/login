@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2c5c458-4639-496c-8221-06ab25d733c2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1i4bYmJ0Xw4LAq69XKGDSldHlYh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../facebooklogin" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c5c458-4639-496c-8221-06ab25d733c2" name="Default Changelist" comment="" />
+      <created>1601169860954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601169860954</updated>
+      <workItem from="1601169864090" duration="1909000" />
+      <workItem from="1601171951925" duration="4125000" />
+      <workItem from="1601176863971" duration="4540000" />
+      <workItem from="1601186752910" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1432" y="-805" key="FileChooserDialogImpl" timestamp="1601186906874">
+      <screen x="1064" y="-1083" width="1920" height="1040" />
+    </state>
+    <state x="1432" y="-805" key="FileChooserDialogImpl/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@1064.-1083.1920.1040" timestamp="1601186906874" />
+    <state x="1858" y="-640" key="NewPhpFileDialog" timestamp="1601175219584">
+      <screen x="1064" y="-1083" width="1920" height="1040" />
+    </state>
+    <state x="1858" y="-640" key="NewPhpFileDialog/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@1064.-1083.1920.1040" timestamp="1601175219584" />
+    <state x="1214" y="-854" width="672" height="678" key="search.everywhere.popup" timestamp="1601172791888">
+      <screen x="1064" y="-1083" width="1920" height="1040" />
+    </state>
+    <state x="1214" y="-854" width="672" height="678" key="search.everywhere.popup/0.0.1440.920/-856.-1080.1920.1040/1064.-1083.1920.1040@1064.-1083.1920.1040" timestamp="1601172791888" />
+  </component>
+</project>
