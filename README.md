@@ -1,3 +1,3 @@
 # login
 
-Making a basic varification page
+Making a basic verification page
